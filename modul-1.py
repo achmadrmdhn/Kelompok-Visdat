@@ -3,8 +3,10 @@ st.title ('Praktikum 2 Edisi Belajar Streamlit!')
 #Text Element
 st.text('Saya Sahrul Firdaus')
 st.text('Dengan NIM 0110223114')
-st.text('Dan Saya Achmad Rifa\'i Ramadhan')
+st.text('Halo Saya Achmad Rifa\'i Ramadhan')
 st.text('Dengan NIM 0110223138')
+st.text('Dan Saya Adalah')
+st.text('Dengan NIM 0110222183')
 
 
 st.title('Ini Cara Membuat Judul')
