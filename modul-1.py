@@ -5,7 +5,7 @@ st.text('Saya Sahrul Firdaus')
 st.text('Dengan NIM 0110223114')
 st.text('Halo Saya Achmad Rifa\'i Ramadhan')
 st.text('Dengan NIM 0110223138')
-st.text('Dan Saya Adalah')
+st.text('Dan Saya Adalah Saepulloh')
 st.text('Dengan NIM 0110222183')
 
 
